@@ -66,7 +66,7 @@ kanban-board/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/kanban-board.git
+git clone https://github.com/Bhuviofficial/kanbanboard
 cd kanban-board
 
 
